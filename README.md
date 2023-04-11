@@ -11,7 +11,7 @@ Please use this script with caution, as promoting all users to admin privileges 
 ## Installation
 Clone the repository or download the script file promote_standard_users.sh to your local machine.
 ```
-git clone https://github.com/yourusername/promote-standard-users-to-admins.git
+git clone https://github.com/emersunn/promote-standard-users-to-admins.git
 ```
 ## Usage
 Run the script with root privileges:
